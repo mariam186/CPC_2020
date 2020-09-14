@@ -1,5 +1,5 @@
 # Normative Modeling Practical ISAGS 2020
-This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Intensive School for Advanced Graduate Studies - Machine Learning](https://www.translationalneuromodeling.org/cpcourse/ https://isags-pavia.unipv.it/machine_learning/) on September 15th, 2020.
+This repository contains written instructions, links to code, and data used for the (virtual) Machine Learning/Normative Modeling Practical at the [Intensive School for Advanced Graduate Studies - Machine Learning](https://isags-pavia.unipv.it/machine_learning/) on September 15th, 2020.
  [Computational Psychiatry Course](https://www.translationalneuromodeling.org/cpcourse/)
 This repository is a group effort by [Thomas Wolfers](https://twitter.com/ThomasWolfers), [Saige Rutherford](https://twitter.com/being_saige), and [Mariam Zabihi](https://twitter.com/m_zabihi).
 
